@@ -1,4 +1,4 @@
-# Repositório: JavaAluraOperadores
+# Repositório: JavaAlura-Operadores
 
 Este repositório contém um exemplo de código Java que demonstra o uso de diferentes tipos de operadores na linguagem.
 
